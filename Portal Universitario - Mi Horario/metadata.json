@@ -1,0 +1,6 @@
+{
+  "name": "Portal Universitario - Mi Horario",
+  "description": "Simulador del portal universitario con módulos de calificaciones, adeudos, reinscripciones y visualizador interactivo de horarios académicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
