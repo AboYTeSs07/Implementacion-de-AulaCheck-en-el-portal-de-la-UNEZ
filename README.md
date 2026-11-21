@@ -1,11 +1,38 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="AulaCheck Banner" width="100%">
+</p>
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# 🏫 Sistema Escolar AulaCheck (Módulo UNEZ)
 
-  <h1>Built with AI Studio</h2>
+> **AulaCheck** es un nuevo módulo tecnológico integrado directamente al portal institucional de la Universidad Emiliano Zapata (UNEZ). Su objetivo es permitir a la comunidad escolar consultar en tiempo real la disponibilidad, horarios y ubicación exacta de las aulas libres, optimizando la organización diaria y evitando traslados físicos innecesarios por los diferentes pisos de los edificios.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+---
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 👥 Personal Involucrado y Atribuciones
 
-</div>
+Este proyecto es desarrollado y mantenido por el **Equipo 1** de Ingeniería en Sistemas Computacionales (Séptimo Tetramestre):
+
+*   **Christian Verastegui** (Líder de Proyecto & UI/UX Designer) ─ [@AboYTeSs07-github](https://github.com/AboYTeSs07)
+    *   *Aportaciones:* Coordinación del proyecto, diseño de interfaces, prototipos en Google AI Studio y documentación final.
+*   **Alberto de los Reyes** (Desarrollador Backend & DBA) ─ [@alberto-github](https://github.com/alberto-github)
+    *   *Aportaciones:* Diseño de la base de datos segura, lógica del servidor y cronograma del proyecto (Gantt).
+*   **Alexis Alejo** (Desarrollador Fullstack & QA) ─ [@alexis-github](https://github.com/alexis-github)
+    *   *Aportaciones:* Programación del sistema, control de versiones, pruebas de calidad y estabilidad de la integración.
+
+---
+
+## 🛠️ Herramientas Utilizadas
+
+*   **Google AI Studio**: Para el prototipado rápido y creación de la interfaz del portal.
+*   **Visual Studio Code / C#**: Para el desarrollo de la aplicación real y la integración con el portal institucional.
+*   **Base de Datos (MySQL / PostgreSQL)**: Gestión del registro de espacios académicos y roles de usuario.
+*   **GitHub**: Control de versiones y colaboración del equipo.
+
+---
+
+## 📅 Estado del Proyecto
+
+Para conocer el progreso detallado de las actividades, consulta nuestro **Calendario y Diagrama de Gantt** en la documentación interna. Actualmente nos encontramos en la **Fase de Entrega y Documentación**.
+
+---
+_Proyecto académico para la materia de Gestión de Proyectos de Software — Universidad Emiliano Zapata._
